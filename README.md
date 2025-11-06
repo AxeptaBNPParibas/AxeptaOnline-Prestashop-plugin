@@ -6,7 +6,27 @@ Regrouper tous les éléments relatifs à la refonte du module pour l’installa
 
 ## SOMMAIRE
 
-<Table of content>
+- [Document Axepta BNP Paribas Prestashop](#document-axepta-bnp-paribas-prestashop)
+  - [SOMMAIRE](#sommaire)
+  - [INTRODUCTION](#introduction)
+    - [PREREQUIS NECESSAIRES](#prerequis-necessaires)
+    - [INSTALLATION DU MODULE](#installation-du-module)
+    - [MISE A JOUR DU MODULE](#mise-a-jour-du-module)
+  - [BACK OFFICE](#back-office)
+    - [CONFIGURATION GLOBALE DU MODULE](#configuration-globale-du-module)
+      - [CONFIGURATION DU COMPTE](#configuration-du-compte)
+      - [CONFIGURATION DU PAIEMENT](#configuration-du-paiement)
+      - [METHODE DE CAPTURE](#methode-de-capture)
+      - [METHODES DE PAIEMENT](#methodes-de-paiement)
+      - [PERSONNALISATION](#personnalisation)
+    - [TABLEAU DES COMMANDES](#tableau-des-commandes)
+      - [CAPTURE MANUELLE](#capture-manuelle)
+    - [LOGS](#logs)
+    - [REMBOURSEMENT / ANNULATION](#remboursement--annulation)
+    - [LISTE DES TRANSACTIONS](#liste-des-transactions)
+  - [FRONT OFFICE](#front-office)
+    - [ESPACE CLIENT](#espace-client)
+
 
 ## INTRODUCTION
 AXEPTA BNP Paribas vous donne accès à plusieurs moyens de paiement. Chacun d'entre eux propose une solution de paiement en ligne pour les e-commerçants.
