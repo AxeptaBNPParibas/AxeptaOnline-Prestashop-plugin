@@ -1,4 +1,4 @@
-🧩 Axepta Online – Module de paiement PrestaShop
+ Axepta Online – Module de paiement PrestaShop
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=7.2-blue)
@@ -10,7 +10,7 @@
 
 🇫🇷 Présentation
 
-Le module Axepta Online pour PrestaShop permet aux marchands d’accepter des paiements sécurisés en ligne via BNP Paribas Axepta.
+Le module Axepta Online pour PrestaShop permet aux marchands d’accepter des paiements sécurisés en ligne via Axepta BNP Paribas.
 Il s’intègre de manière fluide et supporte un ensemble complet de moyens de paiement.
 
 💳 Moyens de paiement
@@ -90,7 +90,7 @@ Verified OK
 📧 assistance.ecommerce@bnpparibas.com
 
 🇬🇧 English Version
-🧩 Axepta Online – PrestaShop Payment Module
+Axepta Online – PrestaShop Payment Module
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=7.2-blue)
@@ -100,7 +100,7 @@ Verified OK
 
 Overview
 
-The Axepta Online module for PrestaShop enables merchants to process secure online payments through BNP Paribas Axepta.
+The Axepta Online module for PrestaShop enables merchants to process secure online payments through Axepta BNP Paribas.
 
 💳 Supported Payment Methods
 - CB  
@@ -174,3 +174,4 @@ Verified OK
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
