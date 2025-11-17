@@ -47,7 +47,8 @@ Install the module from the Module Manager
 ⬇️ Download
 
 Download the latest version here:
-👉 GitHub → Releases
+
+[📥 Download Latest Release](../../releases/latest)
 
 Each release includes:
 
@@ -174,3 +175,4 @@ Résultat attendu :
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
