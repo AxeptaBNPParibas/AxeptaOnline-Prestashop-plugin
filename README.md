@@ -52,7 +52,7 @@ Download the latest version here:
 
 Each release includes:
 - ZIP package
-- SHA256 hash
+- RSA digital signature
 
 > ⚠️ Security Warning: Only use this release if signature verification succeeds. A failed verification means the file may have been tampered with, you can check verification steps in release page.
 
@@ -116,13 +116,14 @@ Méthode 2 — Installation manuelle
 
 Chaque version contient :
 - Le ZIP du module
-- Le hash SHA256
+- Le RSA digital signature
 
 > ⚠️ Avertissement de sécurité : N'utilisez cette version que si la vérification de la signature réussit. Une vérification échouée signifie que le fichier a pu être altéré, vous pouvez consulter les étapes de vérification sur la page de release
 
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
 
 
 
