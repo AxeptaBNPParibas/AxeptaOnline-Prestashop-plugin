@@ -51,10 +51,8 @@ Download the latest version here:
 [📥 Download Latest Release](../../releases/latest)
 
 Each release includes:
-
-ZIP package
-
-SHA256 hash
+- ZIP package
+- SHA256 hash
 
 > ⚠️ Security Warning: Only use this release if signature verification succeeds. A failed verification means the file may have been tampered with, you can check verification steps in release page.
 
@@ -114,43 +112,17 @@ Méthode 2 — Installation manuelle
 
 ⬇️ Téléchargement
 
-Téléchargez la dernière version ici :
-👉 GitHub → Releases
+[📥 Téléchargez la dernière version ici](../../releases/latest)
 
 Chaque version contient :
+- Le ZIP du module
+- Le hash SHA256
 
-Le ZIP du module
-
-Le hash SHA256
-
-La signature numérique RSA
-
-
-| Version | Taille | SHA256 |
-|---------|--------|------------------------------------------------------------------|
-| 2.0.0   | 799.36 KB | ff80b0dea4629eaeb1dca54f9ad8e3c05aee8f0208dc4d79e8c90ead566fda02 |
-
-
-🔐 Vérification de l’authenticité
-1) Télécharger la clé publique
-
-
-`curl -LO https://raw.githubusercontent.com/AxeptaBNPParibas/.github/refs/heads/main/axepta-online-github.crt`
-
-4) Vérifier la signature
-
-      `openssl x509 -in axepta-online-github.crt -pubkey -noout > public_key.pem`\
-     `openssl dgst -sha256 -verify public_key.pem -signature axepta-prestashop-2.0.0.zip.sig axepta-prestashop-2.0.0.zip`
-
-Résultat attendu :
-
-✅ Verified OK
-
-
-⚠️ N’installez pas le module si la vérification échoue.
+> ⚠️ Avertissement de sécurité : N'utilisez cette version que si la vérification de la signature réussit. Une vérification échouée signifie que le fichier a pu être altéré, vous pouvez consulter les étapes de vérification sur la page de release
 
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
 
 
