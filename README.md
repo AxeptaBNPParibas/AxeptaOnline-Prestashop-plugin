@@ -63,6 +63,7 @@ Each release includes:
 -----------------------------------------------------------
 
  **Axepta Online – Module de paiement PrestaShop**
+ 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=7.2-blue)
 ![PrestaShop](https://img.shields.io/badge/PrestaShop-1.7.5.0%20→%208.2-orange)
@@ -123,6 +124,7 @@ Chaque version contient :
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
 
 
 
