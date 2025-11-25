@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=7.2-blue)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-1.7.6.0%20→%208.2-orange)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-1.7.7.0%20→%208.2-orange)
 ![Release](https://img.shields.io/github/v/release/AxeptaBNPParibas/AxeptaOnline-Prestashop-plugin)
 ![Downloads](https://img.shields.io/github/downloads/AxeptaBNPParibas/AxeptaOnline-Prestashop-plugin/total)
 
@@ -66,7 +66,7 @@ Each release includes:
  
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![PHP](https://img.shields.io/badge/PHP-%3E=7.2-blue)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-1.7.6.0%20→%208.2-orange)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-1.7.7.0%20→%208.2-orange)
 ![Release](https://img.shields.io/github/v/release/AxeptaBNPParibas/AxeptaOnline-Prestashop-plugin)
 ![Downloads](https://img.shields.io/github/downloads/AxeptaBNPParibas/AxeptaOnline-Prestashop-plugin/total)
 
@@ -124,6 +124,7 @@ Chaque version contient :
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
 
 
 
