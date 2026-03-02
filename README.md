@@ -101,7 +101,9 @@ The Axepta Online module for PrestaShop enables merchants to process secure onli
 ⚙️ Features
 - Automatic capture  
 - Manual capture  
-- Delayed capture  
+- Delayed capture 
+- Iframe
+- Recurring payment
 
 📦 Installation
 
@@ -242,7 +244,9 @@ Il s’intègre de manière fluide et supporte un ensemble complet de moyens de 
 ⚙️ Fonctionnalités
 - Capture **automatique**  
 - Capture **manuelle**  
-- Capture **différée**  
+- Capture **différée**
+- Iframe
+- Paiaments récurrents 
 
 📦 Installation
 
@@ -278,6 +282,7 @@ Chaque version contient :
 📞 Support
 
 📧 assistance.ecommerce@bnpparibas.com
+
 
 
 
