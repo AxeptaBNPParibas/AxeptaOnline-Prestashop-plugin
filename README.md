@@ -21,6 +21,7 @@ The Axepta Online module for PrestaShop enables merchants to process secure onli
 - Apple Pay (on checkout page)
 - Google Pay (on checkout page)
 - PayPal
+- Bancontact (available for Axepta BNP PARIBAS Benelux Clients)
 
 ## ⚙️ Features
 
@@ -97,6 +98,7 @@ Il s'intègre de manière fluide et prend en charge un ensemble complet de moyen
 - Apple Pay (intégré sur la page de paiement)
 - Google Pay (intégré sur la page de paiement)
 - PayPal
+  Bancontact (disponible pour les clients Axepta BNP Paribas Benelux)
 
 ## ⚙️ Fonctionnalités
 
