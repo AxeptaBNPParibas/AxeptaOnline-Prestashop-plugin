@@ -66,7 +66,9 @@ Each release includes:
 
 ## 📞 Support
 
-📧 assistance.ecommerce@bnpparibas.com
+📧 Benelux : support@axepta.be  
+ 
+📧 France: assistance.ecommerce@bnpparibas.com
 
 ---
 ---
@@ -139,4 +141,6 @@ Chaque version contient :
 
 ## 📞 Support
 
-📧 assistance.ecommerce@bnpparibas.com
+📧 Benelux : support@axepta.be  
+ 
+📧 France: assistance.ecommerce@bnpparibas.com
